@@ -58,17 +58,10 @@ The system consists of three main components:
 
 ## Future Scope
 
--**Multi-platform Support**: Extend the mobile application to iOS devices.
--**AI-based Threat Analysis**: Integrate machine learning algorithms for predictive safety alerts.
--**Advanced Analytics Dashboard**: Provide authorities with detailed analytics on emergency incidents.
--**Wearable Expansion**: Incorporate additional sensors (heart rate, fall detection) for automated alerts.
--**Community Alerts**: Enable neighborhood-level emergency notifications and community assistance features.
--**Cloud Integration**: Move backend to cloud services for scalability and enhanced reliability.
+-**Multi-platform Support**: Extend the mobile application to iOS devices. **AI-based Threat Analysis**: Integrate machine learning algorithms for predictive safety alerts. **Advanced Analytics Dashboard**: Provide authorities with detailed analytics on emergency incidents. **Wearable Expansion**: Incorporate additional sensors (heart rate, fall detection) for automated alerts **Community Alerts**: Enable neighborhood-level emergency notifications and community assistance features. **Cloud Integration**: Move backend to cloud services for scalability and enhanced reliability.
 
 ## Performance
--Data Transmission Reliability: 99.9%
--Emergency Response Time Reduction: >40% faster than SMS-based methods
--GPS Transmission: Sub-3 second updates to designated contacts and authorities
+-**Data Transmission Reliability**: 99.9%. **Emergency Response Time Reduction**: >40% faster than SMS-based methods. **GPS Transmission**: Sub-3 second updates to designated contacts and authorities
 
 ## Setup & Installation
 1. **Clone the repository:**
