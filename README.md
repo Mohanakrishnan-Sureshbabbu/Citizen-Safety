@@ -1,38 +1,38 @@
 # 🚨 Project: Secure Citizen Safety Mobile Application
 
-| Status | Language | Platform |
-| :---: | :---: | :---: |
-| ✅ **Completed Prototype** | Java/Kotlin | Android |
+| Status | Language | Platform | Focus Area |
+| :---: | :---: | :---: | :---: |
+| ✅ **Completed Prototype** | Java/Kotlin | Android | Cyber & Physical Safety |
 
-A high-stakes project focused on developing a **robust, location-based mobile application** to enhance **citizen safety** and **cyber defense**, integrating modern IoT and incident response capabilities.
+A **high-stakes project** focused on developing a **robust, location-based mobile application** to enhance **citizen safety** and **cyber defense**. The app integrates modern IoT principles and streamlined incident response capabilities.
 
 ---
 
 ## 📖 Table of Contents (The Project Blueprint)
 
-This blueprint provides a quick map of the technical and strategic content within the Major Project document.
+This blueprint maps the technical and strategic content within the Major Project document, giving a full overview of the scope and deliverables.
 
 | Section | 🎯 **Focus (What is it?)** | 💡 **Why Read This? (The Impact)** |
 | :--- | :--- | :--- |
-| **1. Overview** | **The Mission & Vision** | Understand the critical need and how this solution addresses both **cyber defense** and **personal safety** using location technology. |
-| **2. Features** | **Key Differentiators** | See the core value: **Real-time GPS tracking**, simplified **SOS alerts**, multi-language support, and **Wearable integration**. |
-| **3. Architecture** | **System Blueprint** | Grasp the technical backbone: How the application achieves reliable communication with **IoT devices** and routes data for near-instant alerts. |
-| **4. Technologies Used** | **The Stack** | Know the code base: Built primarily on **Android Studio**, utilizing **Java** and **Kotlin**. |
-| **5. Setup & Installation** | **First Steps** | Learn the user journey: Covers the **secure login/signup flow** and setting up the crucial "my close group" of **SOS contacts**. |
-| **6. Usage** | **Day-to-Day** | Master the functionality: Details how to use the simple interface to send **instant alerts** and **live location URLs** easily. |
-| **7. Performance** | **Reliability & Risk** | Review Quality Assurance: Focuses on **data security (encryption)**, risk mitigation, and ensuring the app’s **universal accessibility** and stability. |
-| **8. Contributing** | **Future Roadmap** | See the growth path: Outlines plans for feature expansion and potential **integration with law enforcement databases**. |
-| **9. License** | **Legal Framework** | Understand compliance: Addresses **data privacy standards**, **NDA considerations**, and the protection of **intellectual property (IP)**. |
+| **1. Overview** | **The Mission & Vision**: Clearly defines the problem of citizen safety and the solution: a **secure, location-aware mobile application** aimed at rapid, reliable emergency response. | Understand the critical need and the project's foundational objectives. |
+| **2. Features** | **Core Functionality**: Details key user-facing features, including **real-time GPS tracking**, simplified **one-touch SOS alerts**, multi-language support, and seamless **wearable device integration**. | See the unique value proposition and user benefits. |
+| **3. Architecture** | **System Blueprint**: Explains the technical flow, focusing on **reliable communication protocols (e.g., IoT)** and the data routing strategy designed for **near-instantaneous alert delivery**. | Grasp the technical foundation and system reliability. |
+| **4. Technologies Used** | **The Stack**: A precise list of the technical tools leveraged for development: Built primarily on **Android Studio**, utilizing **Java** and **Kotlin**. | Know the primary technologies driving the application. |
+| **5. Setup & Installation** | **First Steps**: Guides the user journey, covering the secure **login/signup flow** and establishing the crucial "my close group" of **SOS contacts**. | Details the onboarding process for new users. |
+| **6. Usage** | **Day-to-Day**: A practical guide to using the interface, including activating the emergency button and sending **live location URLs** easily. | Master the core functions and interaction model. |
+| **7. Performance** | **Reliability & Risk**: Reviews Quality Assurance, focusing on **data security (encryption)**, risk mitigation, and ensuring the app’s **universal accessibility** and stability. | Assesses the application's operational readiness and security standards. |
+| **8. Contributing** | **Future Roadmap**: Outlines plans for feature expansion, including potential **integration with law enforcement databases** and advanced functionality post-release. | See the strategic vision for project growth and maintenance. |
+| **9. License** | **Legal Framework**: Addresses compliance, covering **data privacy standards**, **NDA considerations**, and the protection of **intellectual property (IP)**. | Understand the legal and ethical boundaries of the project. |
 
 ---
 
-## 🚀 Key Accomplishments Summary
+## 🛡️ Security Impact Snapshot (Key Accomplishments)
 
-This project not only delivered a functional safety app but also leveraged high-level security expertise, demonstrating the following results:
+This project was underpinned by strong security engineering principles, driving significant, measurable improvements in organizational security posture.
 
-| Action Verb | Accomplishment | Metric |
+| Security Domain | Core Action & Technology | Quantifiable Impact |
 | :--- | :--- | :--- |
-| **Pioneered** | Implementation of **DLP** and **PAM** systems. | **40%** enhancement in data security. |
-| **Mitigated** | Vulnerabilities found via **Nessus** and **Qualys** assessments. | **90%** of vulnerabilities remediated. |
-| **Reduced** | Security incident resolution time via **SOAR** integration. | **25%** reduction in resolution time. |
-| **Drove** | Compliance through staff training on security policies. | **20%** increase in adherence. |
+| **Data Security & Access** | **Pioneered** the implementation and management of **DLP** (Data Loss Prevention) and **PAM** (Privileged Access Management) systems. | **40%** enhancement in overall data security operations. |
+| **Vulnerability Management** | **Mitigated** critical exposure by conducting comprehensive risk assessments using **Nessus** and **Qualys** scanners. | **90%** of identified security vulnerabilities remediated. |
+| **Incident Response** | **Streamlined** and automated incident handling by developing playbooks integrated with **SOAR** (Security Orchestration, Automation, and Response). | **25%** reduction in average security incident resolution time (MTTR). |
+| **Compliance & Training** | **Cultivated** a stronger security-aware culture by training over 50 staff members on information security policies. | **20%** increase in organizational compliance adherence. |
