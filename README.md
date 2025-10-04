@@ -37,4 +37,5 @@ This project was underpinned by strong security engineering principles, driving 
 | **Incident Response** | **Streamlined** and automated incident handling by developing playbooks integrated with **SOAR** (Security Orchestration, Automation, and Response). | **25%** reduction in average security incident resolution time (MTTR). |
 | **Compliance & Training** | **Cultivated** a stronger security-aware culture by training over 50 staff members on information security policies. | **20%** increase in organizational compliance adherence. |
 
-https://github.com/Mohanakrishnan-Sureshbabbu/Citizen-Safety/blob/b181f2b3cf34881e291c615382cf3125d8458930/Citizen%20Safety%23.png
+![Image Alt]([image url](https://github.com/Mohanakrishnan-Sureshbabbu/Citizen-Safety/blob/b181f2b3cf34881e291c615382cf3125d8458930/Citizen%20Safety%23.png))
+
